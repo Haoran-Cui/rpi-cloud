@@ -1,0 +1,15 @@
+.tool-bar-btn-n-arrow {
+    width: 50px;
+    height: 35px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tool-bar-btn-n-arrow:hover {
+    background-color: #E1E2E3;
+}
+.tool-bar-btn-n-arrow svg {
+    width: 24px;
+    height: 24px;
+}

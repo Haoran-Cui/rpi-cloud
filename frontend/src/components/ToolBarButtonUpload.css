@@ -1,0 +1,18 @@
+.tool-bar-btn-upload {
+    border: none;
+    background-color: transparent;
+    width: 50px;
+    height: 35px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tool-bar-btn-upload:hover {
+    background-color: #E1E2E3;
+}
+.tool-bar-btn-upload svg {
+    width: 24px;
+    height: 24px;
+    /* background-color: pink; */
+}

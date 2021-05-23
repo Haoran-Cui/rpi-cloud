@@ -1,0 +1,32 @@
+.main-area-list-item {
+    width: calc(100% - 6px);
+    height: 22px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+    color: #4F4F4F;
+}
+.curr-selected {
+    background-color: #0059DD;
+}
+.selected {
+    background-color: #D7D7D7;
+}
+.main-area-list-item svg {
+    width: 16px;
+    height: 16px;
+    align-items: center;
+    margin-right: 4px;
+}
+.mali-name {
+    max-width: 180px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    cursor: default;
+}
+.text-curr-selected {
+    color: #FFFFFF;
+}
+

@@ -1,0 +1,19 @@
+.main-area-list {
+    display: inline-block;
+    overflow-y: scroll;
+    width: 250px;
+    height: 100%;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+}
+/* .main-area-list::-webkit-scrollbar {
+    background-color: #F9F9F9;
+    box-sizing: border-box;
+    width: 15px;
+    border-left: 1px solid #E4E4E4;
+    border-right: 1px solid #E4E4E4;
+} */

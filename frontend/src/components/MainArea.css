@@ -1,0 +1,11 @@
+.main-area {
+    position: absolute;
+    top: 52px;
+    bottom: 0;
+    left: 250px;
+    right: 0;
+    background-color: #FFFFFF;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+}

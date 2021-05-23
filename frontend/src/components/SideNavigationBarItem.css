@@ -1,0 +1,28 @@
+.side-navigation-bar-item {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 28px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.side-navigation-bar-item-selected {
+    background-color: #AEB7C7;
+}
+
+.side-navigation-bar-item svg {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.snb-item-name {
+    font-size: 14px;
+    line-height: 28px;
+    margin-left: 5px;
+    color: #3D3E3E;
+    cursor: default;
+}
